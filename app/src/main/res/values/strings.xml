@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="infoApple">Apple</string>
+    <string name="infoStrawberry">Strawberry</string>
+    <string name="infoBlueberry">Blueberry</string>
+    <string name="infoPotatoes">Potatoes</string>
+    <string name="infoCalculate">CALCULATE</string>
+    <string name="infoResult">Sum:</string>
+    <string name="infoProd">Product</string>
+    <string name="infoCost">Cost</string>
+    <string name="infoQual">Quantity</string>
+
+</resources>
